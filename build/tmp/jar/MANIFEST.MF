@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: modtutorial
+Specification-Vendor: 
+Specification-Version: 1
+Implementation-Title: MODTUTORIAL
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor: 
+Implementation-Timestamp: 2024-08-17T22:52:08-0300
+

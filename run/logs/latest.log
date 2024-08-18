@@ -1,0 +1,24 @@
+[18ago2024 00:02:10.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev fell from a high place
+[18ago2024 00:02:10.764] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Dev fell from a high place
+[18ago2024 00:02:20.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Creative Mode]
+[18ago2024 00:02:20.255] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Creative Mode
+[18ago2024 00:02:30.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Gave 1 [item.modtutorial.asado] to Dev]
+[18ago2024 00:02:30.465] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Gave 1 [item.modtutorial.asado] to Dev
+[18ago2024 00:03:50.707] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[18ago2024 00:03:50.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[18ago2024 00:03:50.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[18ago2024 00:03:50.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[18ago2024 00:03:53.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dev lost connection: Disconnected
+[18ago2024 00:03:53.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev left the game
+[18ago2024 00:03:53.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stopping singleplayer server as player logged out
+[18ago2024 00:03:53.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18ago2024 00:03:53.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18ago2024 00:03:53.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18ago2024 00:03:54.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[18ago2024 00:03:54.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[18ago2024 00:03:54.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[18ago2024 00:03:54.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[18ago2024 00:03:54.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18ago2024 00:03:54.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18ago2024 00:03:54.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18ago2024 00:03:58.033] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
