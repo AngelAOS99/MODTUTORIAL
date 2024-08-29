@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    " * ",
+    " * "
+  ],
+  "key": {
+    "#": {
+      "item": "modtutorial:kroon_ingot"
+    },
+    "*": {
+      "item": "minecraft:stick"
+    }
+  },
+
+  "result": {
+    "item": "modtutorial:pylon"
+  }
+}

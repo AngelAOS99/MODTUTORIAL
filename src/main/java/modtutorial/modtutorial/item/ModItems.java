@@ -1,13 +1,10 @@
 package modtutorial.modtutorial.item;
-
 import modtutorial.modtutorial.MODTUTORIAL;
+import modtutorial.modtutorial.block.ModBlocks;
 import modtutorial.modtutorial.item.custom.ModEspada;
 import modtutorial.modtutorial.item.custom.ModPico;
-import net.minecraft.world.effect.MobEffectInstance;
-import net.minecraft.world.effect.MobEffects;
-import net.minecraft.world.food.FoodProperties;
+import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
-
 import net.minecraft.world.item.Tiers;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -22,6 +19,8 @@ public class ModItems {
             new Item.Properties()));
     public static final RegistryObject<Item> PYLON = ITEMS.register("pylon", () -> new ModPico(Tiers.NETHERITE,1,0.001f,
             new Item.Properties()));
+    public static final RegistryObject<Item> KROON_INGOT = ITEMS.register("kroon_ingot", () -> new Item( new Item.Properties()));
+
 
 
     public static void register(IEventBus eventBus){

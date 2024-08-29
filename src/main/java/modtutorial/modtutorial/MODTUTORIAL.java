@@ -3,6 +3,9 @@ package modtutorial.modtutorial;
 import modtutorial.modtutorial.block.ModBlocks;
 import modtutorial.modtutorial.item.ModItems;
 import modtutorial.modtutorial.item.custom.ModCreativeModeTab;
+import net.minecraft.world.entity.SpawnPlacements;
+import net.minecraft.world.entity.animal.Animal;
+import net.minecraft.world.level.levelgen.Heightmap;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
@@ -32,6 +35,7 @@ public class MODTUTORIAL {
         ModBlocks.register(modEventBus);
 
 
+
         // Register the Deferred Register to the mod event bus so tabs get registered
 
 
@@ -49,14 +53,15 @@ public class MODTUTORIAL {
 
 
 
-    }
-
+}
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTab()== ModCreativeModeTab.FIRST_TAB.get()){
             event.accept(ModItems.TENSHI);
             event.accept(ModItems.PYLON);
             event.accept(ModBlocks.WHITE_GLOWING_STONE);
+            event.accept(ModBlocks.KROON_ORE);
+            event.accept(ModItems.KROON_INGOT);
 
         }
 

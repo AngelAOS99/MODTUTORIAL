@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#*"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:torch"
+    },
+    "*": {
+      "item": "minecraft:white_concrete"
+    }
+  },
+
+  "result": {
+    "item": "modtutorial:white_glowing_stone"
+  }
+}
